@@ -1,19 +1,10 @@
-h1{
-    text-align: center;
-}
-label{
-    text-align: left;
-}
+
 p{
     padding-left: 10px;
-}
-.btn btn-secondary{
-    text-align: center;
 }
 span{
     color: red;
 }
 .form{
-    text-align: center;
     padding-top: 5%;  
 }
